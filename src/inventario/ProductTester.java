@@ -1,12 +1,7 @@
 package inventario;
 import java.util.Scanner;
 
-
 public class ProductTester {
-<<<<<<< HEAD
-=======
-	
->>>>>>> 78b8df0 (First Commit)
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
@@ -14,7 +9,6 @@ public class ProductTester {
 		String tempName;
 		int tempQtd;
 		double tempPrice;
-<<<<<<< HEAD
 		
 		System.out.println("\n\n Digite o nome do produto: ");
 		tempName = in.nextLine();
@@ -27,8 +21,7 @@ public class ProductTester {
 		
 		in.close();
 		Product p = new Product(tempNumber,tempName,tempQtd,tempPrice);
-		System.out.println(p);		
-=======
+		System.out.println(p);
 		int maxSize= -1;
 
 		// avisar o usuário até que ele insira um número >= 0
@@ -74,7 +67,6 @@ public class ProductTester {
 		}
 
 		in.close();
->>>>>>> 78b8df0 (First Commit)
 	}
 
 }
