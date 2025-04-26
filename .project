@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Inventario25</name>
+=======
+	<name>inventario</name>
+>>>>>>> 78b8df0 (First Commit)
 	<comment></comment>
 	<projects>
 	</projects>

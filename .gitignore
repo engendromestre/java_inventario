@@ -31,5 +31,9 @@ out/                 # Pasta de saída em alguns projetos Java
 # Testes e relatórios
 test-output/         # Saída de frameworks de teste como TestNG
 *.log                # Logs diversos
+<<<<<<< HEAD
 *.tmp                # Arquivos temporários
 
+=======
+*.tmp                # Arquivos temporários
+>>>>>>> 78b8df0 (First Commit)

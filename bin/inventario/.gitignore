@@ -1,0 +1,6 @@
+# Example .gitignore entries
+AppData/
+Windows/
+.idea/
+node_modules/
+*.log
